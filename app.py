@@ -19,8 +19,8 @@ except Exception:
     TTS_AVAILABLE = False
 
 # ---------------- Configuración base ----------------
-st.set_page_config(page_title="Tablero Inteligente", page_icon="🧠", layout="wide")
-st.title("🧠 Tablero Inteligente · versión Pro")
+st.set_page_config(page_title="Tablero de Juanda", page_icon="🧠", layout="wide")
+st.title("🧠😔 Tablero de Juanda")
 st.caption(f"Versión de Python: {platform.python_version()}")
 
 # ---------------- Barra lateral ----------------
